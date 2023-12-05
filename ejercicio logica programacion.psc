@@ -68,9 +68,9 @@ Algoritmo ordenarNumeros
 	FinSi
 	
 	Si num2 = num3 Y num2 > num1 Entonces
-		Escribir "EL numero mayor es: " num2 " | El numero del centro es: " num1 " | El numero menor es: " num3
-		Escribir "Los numeros ordenados de mayor a menor son: " num2 " " num1 " " num3
-		Escribir "Los numeros ordenados de menor a mayor son: " num3 " " num1 " " num2
+		Escribir "EL numero mayor es: " num3 " | El numero del centro es: " num2 " | El numero menor es: " num1
+		Escribir "Los numeros ordenados de mayor a menor son: " num3 " " num2 " " num1
+		Escribir "Los numeros ordenados de menor a mayor son: " num1 " " num2 " " num3
 	FinSi
 	
 	Si num2 = num3 Y num2 < num1 Entonces
